@@ -33,8 +33,7 @@ module.exports = {
   "theme": {
     "links": {
       "en": {
-        "home": "https://100up.org",
-        "imprint": "https://100up.org/imprint"
+        "home": "https://100up.org"
       }
     }
   }
