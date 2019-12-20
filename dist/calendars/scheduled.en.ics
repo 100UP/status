@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Statusfy//status.100up.org//calendar//scheduled//EN
+NAME:100UP Hosting Status
+X-WR-CALNAME:100UP Hosting Status
+TIMEZONE-ID:UTC
+X-WR-TIMEZONE:UTC
+END:VCALENDAR
