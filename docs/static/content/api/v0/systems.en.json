@@ -1,1 +1,1 @@
-[{"name":{"name":"vps-fr","title":"VPS Hosting France"},"status":"operational","order":1},{"name":{"name":"main-website","title":"Main Website"},"status":"operational","order":2}]
+[{"name":{"vps-fr":{"title":"VPS Hosting France"}},"status":"operational","order":1}]

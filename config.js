@@ -14,16 +14,11 @@ module.exports = {
   ],
   "content": {
     "frontMatterFormat": "yaml",
-    "systems": [
-      {
-        name: "vps-fr",
+    "systems": [{
+      "vps-fr": {
         title: "VPS Hosting France"
-      },
-      {
-        name: "main-website",
-        title: "Main Website"
       }
-    ]
+    }]
   },
   "notifications": {
     "feeds": true,
