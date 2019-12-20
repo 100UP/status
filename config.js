@@ -14,5 +14,10 @@ module.exports = {
   ],
   "content": {
     "frontMatterFormat": "yaml"
+  },
+  theme: {
+    links: {
+      home: "https://100up.org"
+    }
   }
 }
