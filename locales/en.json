@@ -1,5 +1,5 @@
 {
-  "title": "100UP Hosting Status",
+  "title": "Status",
   "description": "100UP Hosting Status Page",
   "systems": {
     "items": {
@@ -25,7 +25,8 @@
         "title": "Customer Panel"
       },
       "api": {
-        "title": "API"
+        "title": "API",
+        "description": ""
       }
     }
   }
