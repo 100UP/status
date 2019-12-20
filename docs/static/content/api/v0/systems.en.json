@@ -1,1 +1,1 @@
-[{"name":"vps-fr","status":"operational","order":1},{"name":"api","status":"operational","order":2}]
+[{"name":"vps-fr","status":"operational","order":1},{"name":"vps-de","status":"operational","order":2},{"name":"vps-us","status":"operational","order":3},{"name":"vps-ca","status":"operational","order":4},{"name":"vps-uk","status":"operational","order":5},{"name":"main-website","status":"operational","order":6},{"name":"customer-panel","status":"operational","order":7},{"name":"api","status":"operational","order":8}]
