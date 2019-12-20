@@ -21,7 +21,8 @@ module.exports = {
   },
   "theme": {
     "links": {
-      "home": "https://100up.org"
+      en: {
+      "home": "https://100up.org"}
     }
   },
   "systems": {
