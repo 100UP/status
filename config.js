@@ -25,6 +25,7 @@ module.exports = {
       "api"
     ]
   },
+  "manifest": false,
   "notifications": {
     "feeds": true,
     "icalendar": false

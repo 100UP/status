@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.100up.org</id>
     <title>100UP Hosting Status</title>
-    <updated>2019-12-20T22:09:39.413Z</updated>
+    <updated>2019-12-20T22:11:46.271Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.100up.org"/>
     <link rel="self" href="https://status.100up.org/feeds/incidents.en.atom"/>
