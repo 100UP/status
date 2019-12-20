@@ -1,1 +1,1 @@
-[{"name":"test2","status":"operational","order":1},{"name":"conversions","status":"operational","order":2},{"name":"site-delivery","status":"operational","order":3},{"name":"test4","status":"operational","order":4}]
+[{"name":"vps-fr","status":"operational","order":1},{"name":"main-website","status":"operational","order":2},{"name":"customer-panel","status":"operational","order":3},{"name":"api","status":"operational","order":4}]

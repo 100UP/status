@@ -15,10 +15,10 @@ module.exports = {
   "content": {
     "frontMatterFormat": "yaml",
     systems: [
-      'test2',
-      'conversions',
-      'site-delivery',
-      'test4'
+      'vps-fr',
+      'main-website',
+      'customer-panel',
+      'api'
     ]
   },
   "notifications": {
