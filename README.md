@@ -1,1 +1,1 @@
-# 100UP Hosing Status Page
+# 100UP Hosting Status Page
