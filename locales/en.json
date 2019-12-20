@@ -1,4 +1,32 @@
 {
   "title": "100UP Hosting Status",
-  "description": "100UP Hosting Status Page"
+  "description": "100UP Hosting Status Page",
+  "systems": {
+    "items": {
+      "vps-fr": {
+        "title": "VPS Hosting France"
+      },
+      "vps-de": {
+        "title": "VPS Hosting Germany"
+      },
+      "vps-us": {
+        "title": "VPS Hosting United States"
+      },
+      "vps-ca": {
+        "title": "VPS Hosting Canada"
+      },
+      "vps-uk": {
+        "title": "VPS Hosting United Kingdom"
+      },
+      "main-website": {
+        "title": "Main Website"
+      },
+      "customer-panel": {
+        "title": "Customer Panel"
+      },
+      "api": {
+        "title": "API"
+      }
+    }
+  }
 }
