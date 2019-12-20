@@ -16,7 +16,8 @@ module.exports = {
     "frontMatterFormat": "yaml"
   },
   "notifications": {
-    "feeds": true
+    "feeds": true,
+    "icalendar": false
   },
   "theme": {
     "links": {
