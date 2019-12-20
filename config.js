@@ -23,5 +23,36 @@ module.exports = {
     "links": {
       "home": "https://100up.org"
     }
-  }
+  },
+  "systems": {
+    "items": {
+      "vps-fr": {
+        title: "VPS Hosting France"
+      },
+      "vps-de": {
+        title: "VPS Hosting Germany"
+      },
+      "vps-de": {
+        title: "VPS Hosting Germany"
+      },
+      "vps-us": {
+        title: "VPS Hosting United States"
+      },
+      "vps-ca": {
+        title: "VPS Hosting Canada"
+      },
+      "vps-uk": {
+        title: "VPS Hosting United Kingdom"
+      },
+      "main-website": {
+        title: "Main Website"
+      },
+      "customer-panel": {
+        title: "Customer Panel"
+      },
+      "api": {
+        title: "API"
+      }
+    }
+  },
 }
