@@ -14,10 +14,11 @@ module.exports = {
   ],
   "content": {
     "frontMatterFormat": "yaml",
-    "systems": {
-      "vps-fr": {
-        title: "test"
-      }
+    "systems": [
+      "vps-fr"
+    ],
+    "vps-fr": {
+      title: "test2"
     }
   },
   "notifications": {
