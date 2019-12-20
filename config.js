@@ -13,7 +13,13 @@ module.exports = {
     }
   ],
   "content": {
-    "frontMatterFormat": "yaml"
+    "frontMatterFormat": "yaml",
+    systems: [
+      'test2',
+      'conversions',
+      'site-delivery',
+      'test4'
+    ]
   },
   "notifications": {
     "feeds": true,
