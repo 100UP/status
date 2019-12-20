@@ -15,11 +15,9 @@ module.exports = {
   "content": {
     "frontMatterFormat": "yaml",
     "systems": [
-      "vps-fr"
-    ],
-    "vps-fr": {
-      title: "test2"
-    }
+      "vps-fr",
+      "api"
+    ]
   },
   "notifications": {
     "feeds": true,
