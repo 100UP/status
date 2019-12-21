@@ -6,7 +6,8 @@ duration: 10
 severity: under-maintenance
 affectedsystems:
   - vps-uk
-resolved: false
+resolved: true
+modified: '2019-12-21T09:30:54.123Z'
 ---
 Reboot Host 5 to fix bugged cgroups.
 
