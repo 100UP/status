@@ -4,7 +4,7 @@
         <title>100UP Hosting Status</title>
         <link>https://status.100up.org</link>
         <description>100UP Hosting Status Page</description>
-        <lastBuildDate>Sat, 21 Dec 2019 09:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2019 09:27:31 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.100up.org/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -12,7 +12,7 @@
             <title><![CDATA[Reboot Host 5]]></title>
             <link>https://status.100up.org/incidents/4f20d413</link>
             <guid>https://status.100up.org/incidents/4f20d413</guid>
-            <pubDate>Fri, 20 Dec 2019 22:42:36 GMT</pubDate>
+            <pubDate>Sat, 21 Dec 2019 03:42:36 GMT</pubDate>
             <content:encoded><![CDATA[<p>Reboot Host 5 to fix bugged cgroups.</p>
 <!--- language code: en -->
 ]]></content:encoded>
