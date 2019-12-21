@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>100UP Hosting Status</title>
         <link>https://status.100up.org</link>
         <description>100UP Hosting Status Page</description>
-        <lastBuildDate>Fri, 20 Dec 2019 23:05:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2019 09:26:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.100up.org/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reboot Host 5]]></title>
+            <link>https://status.100up.org/incidents/4f20d413</link>
+            <guid>https://status.100up.org/incidents/4f20d413</guid>
+            <pubDate>Fri, 20 Dec 2019 22:42:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Reboot Host 5 to fix bugged cgroups.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
     </channel>
 </rss>

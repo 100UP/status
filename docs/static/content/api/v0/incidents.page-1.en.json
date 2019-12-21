@@ -1,1 +1,1 @@
-{"count":0,"page":1,"page_size":10,"total_pages":1,"incidents":[]}
+{"count":1,"page":1,"page_size":10,"total_pages":1,"incidents":[{"id":"4f20d413","title":"Reboot Host 5","date":"2019-12-20T22:42:36.690Z","modified":"2019-12-21T09:26:03.423Z","scheduled":"2019-12-21T09:20:00.000Z","duration":10,"severity":"under-maintenance","affectedsystems":["vps-uk"],"resolved":false,"content":"<p>Reboot Host 5 to fix bugged cgroups.</p>\n<!--- language code: en -->\n"}]}
