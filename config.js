@@ -20,6 +20,8 @@ module.exports = {
       "vps-us",
       "vps-ca",
       "vps-uk",
+      "vps-au",
+      "vps-nl",
       "main-website",
       "customer-panel",
       "api"

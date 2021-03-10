@@ -6,6 +6,7 @@ affectedsystems:
   - vps-fr
 resolved: false
 ---
-OVH Announcement: We are currently facing a major incident in our DataCenter of Strasbourg. If your production is in Strasbourg, we recommend to activate your Disaster Recovery Plan. Detailed information http://travaux.ovh.net/?do=details&id=49484
+OVH Announcement: We are currently facing a major incident in our DataCenter of Strasbourg. If your production is in Strasbourg, we recommend to activate your Disaster Recovery Plan.
+Detailed information http://travaux.ovh.net/?do=details&id=49484
 
 <!--- language code: en -->

@@ -4,7 +4,7 @@
         <title>100UP Hosting Status</title>
         <link>https://status.100up.org</link>
         <description>100UP Hosting Status Page</description>
-        <lastBuildDate>Wed, 10 Mar 2021 17:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Mar 2021 17:33:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.100up.org/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -13,7 +13,8 @@
             <link>https://status.100up.org/incidents/5495ef8d</link>
             <guid>https://status.100up.org/incidents/5495ef8d</guid>
             <pubDate>Wed, 10 Mar 2021 17:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p>OVH Announcement: We are currently facing a major incident in our DataCenter of Strasbourg. If your production is in Strasbourg, we recommend to activate your Disaster Recovery Plan. Detailed information http://travaux.ovh.net/?do=details&amp;id=49484</p>
+            <content:encoded><![CDATA[<p>OVH Announcement: We are currently facing a major incident in our DataCenter of Strasbourg. If your production is in Strasbourg, we recommend to activate your Disaster Recovery Plan.
+Detailed information http://travaux.ovh.net/?do=details&amp;id=49484</p>
 <!--- language code: en -->
 ]]></content:encoded>
         </item>
