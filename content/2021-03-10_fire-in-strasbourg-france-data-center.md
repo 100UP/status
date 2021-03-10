@@ -1,6 +1,6 @@
 ---
 title: 'Fire in Strasbourg, France Data Center'
-date: '2021-03-10T00:47:58.454Z'
+date: '2021-03-10T01:47:58.454Z'
 severity: major-outage
 affectedsystems:
   - vps-fr

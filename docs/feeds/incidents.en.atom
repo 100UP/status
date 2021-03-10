@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.100up.org</id>
     <title>100UP Hosting Status</title>
-    <updated>2021-03-10T17:45:11.176Z</updated>
+    <updated>2021-03-10T17:50:45.515Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.100up.org"/>
     <link rel="self" href="https://status.100up.org/feeds/incidents.en.atom"/>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Fire in Strasbourg, France Data Center]]></title>
         <id>https://status.100up.org/incidents/5495ef8d</id>
         <link href="https://status.100up.org/incidents/5495ef8d"/>
-        <updated>2021-03-10T00:47:58.454Z</updated>
+        <updated>2021-03-10T01:47:58.454Z</updated>
         <content type="html"><![CDATA[<p>OVH Announcement: We are currently facing a major incident in our DataCenter of Strasbourg. If your production is in Strasbourg, we recommend to activate your Disaster Recovery Plan.
 Detailed information http://travaux.ovh.net/?do=details&amp;id=49484</p>
 <!--- language code: en -->
