@@ -4,10 +4,19 @@
         <title>100UP Hosting Status</title>
         <link>https://status.100up.org</link>
         <description>100UP Hosting Status Page</description>
-        <lastBuildDate>Thu, 11 Mar 2021 21:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 21:12:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.100up.org/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Canada Host 4 network issues]]></title>
+            <link>https://status.100up.org/incidents/1a32b31e</link>
+            <guid>https://status.100up.org/incidents/1a32b31e</guid>
+            <pubDate>Thu, 11 Mar 2021 21:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Host 4 started to show significant packet loss. After a reboot, it does not come online again. Hard reboot times out. IPMI times out. An OVH technician is already working on the rack.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Fire in Strasbourg, France Data Center]]></title>
             <link>https://status.100up.org/incidents/5495ef8d</link>
@@ -15,25 +24,6 @@
             <pubDate>Wed, 10 Mar 2021 01:47:58 GMT</pubDate>
             <content:encoded><![CDATA[<p>OVH Announcement: We are currently facing a major incident in our DataCenter of Strasbourg. If your production is in Strasbourg, we recommend to activate your Disaster Recovery Plan.
 Detailed information http://travaux.ovh.net/?do=details&amp;id=49484</p>
-<!--- language code: en -->
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Fire in Strasbourg, France Data Center]]></title>
-            <link>https://status.100up.org/incidents/1a32b31e</link>
-            <guid>https://status.100up.org/incidents/1a32b31e</guid>
-            <pubDate>Wed, 10 Mar 2021 01:47:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p>---
-title: Canada Host 4 network issues
-date: '2021-03-11T20:04:36.730Z'
-severity: partial-outage
-affectedsystems:</p>
-<ul>
-<li>vps-ca
-resolved: false</li>
-</ul>
-<hr>
-<p>Host 4 started to show significant packet loss. After a reboot, it does not come online again. Hard reboot times out. IPMI times out. An OVH technician is already working on the rack.</p>
 <!--- language code: en -->
 ]]></content:encoded>
         </item>

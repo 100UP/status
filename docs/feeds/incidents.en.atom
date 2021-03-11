@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.100up.org</id>
     <title>100UP Hosting Status</title>
-    <updated>2021-03-11T21:07:31.399Z</updated>
+    <updated>2021-03-11T21:12:08.814Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.100up.org"/>
     <link rel="self" href="https://status.100up.org/feeds/incidents.en.atom"/>
     <subtitle>100UP Hosting Status Page</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Canada Host 4 network issues]]></title>
+        <id>https://status.100up.org/incidents/1a32b31e</id>
+        <link href="https://status.100up.org/incidents/1a32b31e"/>
+        <updated>2021-03-11T21:11:25.268Z</updated>
+        <content type="html"><![CDATA[<p>Host 4 started to show significant packet loss. After a reboot, it does not come online again. Hard reboot times out. IPMI times out. An OVH technician is already working on the rack.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fire in Strasbourg, France Data Center]]></title>
         <id>https://status.100up.org/incidents/5495ef8d</id>
@@ -14,25 +23,6 @@
         <updated>2021-03-10T01:47:58.454Z</updated>
         <content type="html"><![CDATA[<p>OVH Announcement: We are currently facing a major incident in our DataCenter of Strasbourg. If your production is in Strasbourg, we recommend to activate your Disaster Recovery Plan.
 Detailed information http://travaux.ovh.net/?do=details&amp;id=49484</p>
-<!--- language code: en -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire in Strasbourg, France Data Center]]></title>
-        <id>https://status.100up.org/incidents/1a32b31e</id>
-        <link href="https://status.100up.org/incidents/1a32b31e"/>
-        <updated>2021-03-10T01:47:58.454Z</updated>
-        <content type="html"><![CDATA[<p>---
-title: Canada Host 4 network issues
-date: '2021-03-11T20:04:36.730Z'
-severity: partial-outage
-affectedsystems:</p>
-<ul>
-<li>vps-ca
-resolved: false</li>
-</ul>
-<hr>
-<p>Host 4 started to show significant packet loss. After a reboot, it does not come online again. Hard reboot times out. IPMI times out. An OVH technician is already working on the rack.</p>
 <!--- language code: en -->
 ]]></content>
     </entry>
