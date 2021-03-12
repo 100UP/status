@@ -4,7 +4,7 @@
         <title>100UP Hosting Status</title>
         <link>https://status.100up.org</link>
         <description>100UP Hosting Status Page</description>
-        <lastBuildDate>Thu, 11 Mar 2021 21:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 17:32:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.100up.org/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -13,8 +13,21 @@
             <link>https://status.100up.org/incidents/1a32b31e</link>
             <guid>https://status.100up.org/incidents/1a32b31e</guid>
             <pubDate>Thu, 11 Mar 2021 21:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p>Host 4 started to show significant packet loss. After a reboot, it does not come online again. Hard reboot times out. IPMI times out. An OVH technician is already working on the rack.</p>
-<!--- language code: en -->
+            <content:encoded><![CDATA[<div class="update-block">
+          <div class="update-block-date">2021-03-12T12:11:25.268Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>All services are online again. OVH confirmed that the server was inaccessible from the network due to a network issue.</p>
+<p>Task was: <a href="http://travaux.ovh.net/?do=details&amp;id=49523" target="_blank" rel="noopener noreferrer" class="external">http://travaux.ovh.net/?do=details&amp;id=49523</a></p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2021-03-11T21:11:25.268Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Identified</div>
+            <div class="update-block-body">
+<p>Host 4 started to show significant packet loss. After a reboot, it does not come online again. Hard reboot times out. IPMI times out. An OVH technician is already working on the rack.</p>
+</div></div></div>
 ]]></content:encoded>
         </item>
         <item>
