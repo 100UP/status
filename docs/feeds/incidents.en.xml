@@ -4,7 +4,7 @@
         <title>100UP Hosting Status</title>
         <link>https://status.100up.org</link>
         <description>100UP Hosting Status Page</description>
-        <lastBuildDate>Fri, 12 Mar 2021 17:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 13:27:45 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.100up.org/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -35,8 +35,22 @@
             <link>https://status.100up.org/incidents/5495ef8d</link>
             <guid>https://status.100up.org/incidents/5495ef8d</guid>
             <pubDate>Wed, 10 Mar 2021 01:47:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p>OVH Announcement: We are currently facing a major incident in our DataCenter of Strasbourg. If your production is in Strasbourg, we recommend to activate your Disaster Recovery Plan.
-Detailed information http://travaux.ovh.net/?do=details&amp;id=49484</p>
+            <content:encoded><![CDATA[<div class="update-block">
+          <div class="update-block-date">2021-03-12T20:11:25.268Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>OVH will take several weeks or more to bring the services in Strasbourg online again.</p>
+<p>We have ordered new servers in Roubaix to temporarily restore all affected customers servers there. Sadly there is also no ETA for deliveries in Roubaix, but it should be around 15th March.</p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2021-03-10T01:47:58.454Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Identified</div>
+            <div class="update-block-body">
+<p>OVH Announcement: We are currently facing a major incident in our DataCenter of Strasbourg. If your production is in Strasbourg, we recommend to activate your Disaster Recovery Plan.</p>
+<p>Detailed information http://travaux.ovh.net/?do=details&amp;id=49484</p>
+</div></div></div>
 <!--- language code: en -->
 ]]></content:encoded>
         </item>
