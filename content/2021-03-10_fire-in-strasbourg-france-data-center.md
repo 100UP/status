@@ -17,7 +17,7 @@ We have ordered new servers in Roubaix to temporarily restore all affected custo
 ::: update Identified | 2021-03-10T01:47:58.454Z
 OVH Announcement: We are currently facing a major incident in our DataCenter of Strasbourg. If your production is in Strasbourg, we recommend to activate your Disaster Recovery Plan.
 
-Detailed information http://travaux.ovh.net/?do=details&id=49484
+Detailed information <http://travaux.ovh.net/?do=details&id=49484>
 :::
 
 <!--- language code: en -->
