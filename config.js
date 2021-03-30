@@ -1,6 +1,6 @@
 module.exports = {
   "title": "100UP Hosting Status",
-  "name": "100up_hosting_status",
+  "name": "100UP Hosting Status",
   "description": "100UP Hosting Status Page",
   "baseUrl": "https://status.100up.org",
   "defaultLocale": "en",

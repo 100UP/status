@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.100up.org</id>
     <title>100UP Hosting Status</title>
-    <updated>2021-03-13T13:30:05.445Z</updated>
+    <updated>2021-03-30T19:56:57.182Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.100up.org"/>
     <link rel="self" href="https://status.100up.org/feeds/incidents.en.atom"/>
     <subtitle>100UP Hosting Status Page</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Canada Host 4 network issues (again)]]></title>
+        <id>https://status.100up.org/incidents/fc894108</id>
+        <link href="https://status.100up.org/incidents/fc894108"/>
+        <updated>2021-03-13T23:52:32.558Z</updated>
+        <content type="html"><![CDATA[<div class="update-block">
+          <div class="update-block-date">2021-03-13T23:52:32.558Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Identified</div>
+            <div class="update-block-body">
+<p>Host 4 is pinging out again. IPMI is timing out. OVH is informed.</p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2021-03-14T12:52:32.558Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Solved</div>
+            <div class="update-block-body">
+<p>OVH finally resolved the issue. Host 4 is online again without lag or packet loss.</p>
+</div></div></div>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canada Host 4 network issues]]></title>
         <id>https://status.100up.org/incidents/1a32b31e</id>
@@ -49,6 +71,15 @@
             <div class="update-block-body">
 <p>OVH Announcement: We are currently facing a major incident in our DataCenter of Strasbourg. If your production is in Strasbourg, we recommend to activate your Disaster Recovery Plan.</p>
 <p>Detailed information <a href="http://travaux.ovh.net/?do=details&amp;id=49484" target="_blank" rel="noopener noreferrer" class="external">http://travaux.ovh.net/?do=details&amp;id=49484</a></p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2021-03-30T20:47:58.454Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Solved</div>
+            <div class="update-block-body">
+<p>OVH finally brought Host 9 located in SBG3 online again. Host 1 (SBG2) is destroyed.</p>
+<p>Backups of all affected customers from Host 1 were restored to Host 9 and all VPS are online again.</p>
+<p>All affected VPS were renewed at least 1 month due to the incident.</p>
 </div></div></div>
 <!--- language code: en -->
 ]]></content>
